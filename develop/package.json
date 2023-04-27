@@ -1,0 +1,32 @@
+{
+  "name": "11-express-note-taker-module",
+  "version": "1.0.0",
+  "description": "This module create a note taker using express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EGARRISXN/11-express-note-taker-module.git"
+  },
+  "keywords": [
+    "express.js",
+    "note",
+    "taker",
+    "module"
+  ],
+  "author": "Ethan Garrison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EGARRISXN/11-express-note-taker-module/issues"
+  },
+  "homepage": "https://github.com/EGARRISXN/11-express-note-taker-module#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
