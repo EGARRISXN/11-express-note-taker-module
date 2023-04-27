@@ -1,7 +1,7 @@
 {
   "name": "11-express-note-taker-module",
   "version": "1.0.0",
-  "description": "This module create a note taker using express.js",
+  "description": "This module will create a note taker using express.js",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "express.js",
+    "node.js",
     "note",
     "taker",
     "module"
@@ -24,9 +25,7 @@
   "homepage": "https://github.com/EGARRISXN/11-express-note-taker-module#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "uniqid": "^5.4.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.22"
+    "uniqid": "^5.4.0",
+    "node": "^18.16.0"
   }
 }
