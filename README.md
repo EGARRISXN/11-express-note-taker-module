@@ -27,6 +27,10 @@ This simple Note Taker application is used to write and save notes using Express
 
 ## Screenshots
 
+![Screenshot (67)](https://user-images.githubusercontent.com/126130230/235003322-4b07691f-1463-42f0-8577-3a5b63c1889a.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/126130230/235003324-668c8976-3507-4df7-a77f-e83d7e796ac7.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/126130230/235003325-ff9bce16-a308-4517-a7f4-5780173b5819.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/126130230/235003328-4408df44-96ac-4e78-935d-94d40d6c48e7.png)
 
 
 ## Technologies Used
